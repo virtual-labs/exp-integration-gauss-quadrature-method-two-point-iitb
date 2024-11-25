@@ -1,1 +1,1 @@
-## Experiment name
+## Integration: Gauss Quadrature Methods Two Point
