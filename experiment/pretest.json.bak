@@ -1,0 +1,24 @@
+[
+
+    
+    {
+        "question": "Which of the following functions can be approximated using Gauss Quadrature methods? ",
+        "qid": 1,
+        "option_a": "Any discontinuous function",
+        "option_b": "Any continuous function",
+        "option_c": "Only trigonometric functions",
+        "option_d": "Only polynomials",
+        "correct_option": "b"
+    },
+    {
+        
+        "question": "What is the sum of the weights in 2-point Gauss Quadrature?",
+        "qid": 2,
+        "option_a": "0.5",
+        "option_b": "1",
+        "option_c": "1.5",
+        "option_d": "2",
+        "correct_option": "b"
+    }
+    
+]

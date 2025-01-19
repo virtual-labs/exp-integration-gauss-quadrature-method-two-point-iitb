@@ -1,0 +1,26 @@
+
+[
+    {
+        "question": "Given that x varies from 2 to 5 (i.e x1 to x2) and $$ Y(x) = x^3 - x + 1. $$ find the integration of Y using Guass quadrature method for 2 points.",
+        "qid": 1,
+        "option_a": "160.634",
+        "option_b": "120.352",
+        "option_c": "144.750",
+        "option_d": "144.937",
+        "correct_option": "c"
+    },
+    {
+       "question": "Given that x varies from 3 to 6 (i.e x1 to x2) and $$ Y(x) = x^3 - x + 1. $$ find the integration of Y using Guass quadrature method for 2 points.",
+       "qid": 2,
+       "option_a": "292.344",
+       "option_b": "293.250",
+       "option_c": "293.835",
+       "option_d": "290.034",
+       "correct_option": "b"
+   }
+   
+ ]
+ 
+ 
+ 
+ 
